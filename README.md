@@ -25,7 +25,7 @@
 ## 🔥 Publications 
 ### Journal Papers
 
-综述类
+- Review papers (综述类)
 
 1. **Kou R K**, Wang C P, Peng Z M, et al.  
    [Infrared small target segmentation networks: A survey](https://doi.org/10.1016/j.patcog.2023.109788)  
@@ -36,7 +36,7 @@
    [单帧红外图像多尺度小目标检测技术综述](https://doi.org/10.11834/jig.230788)  
    *中国图象图形学报*, 2024, 29(09):2625-2649
 
-算法类
+- Algorithm related papers (算法类)
 
 3. **Kou R K**, Wang C P, Fu Q, et al.  
    [MCGC: Multi-scale chain growth clustering for infrared targets under single-point supervision](https://doi.org/10.1109/TGRS.2024.3390756)  
@@ -58,11 +58,11 @@
    *IEEE TGRS*, 2023, 61: 5612912  
    `WOS:001022708100018`
 
-数据集类
+Dataset category (数据集类)
 
 7. https://github.com/kourenke/IRTiny-BD-10K-Datasets
 
-目标红外辐射特性分析类
+Analysis of target infrared radiation characteristics (目标红外辐射特性分析类)
 
 8. **Kou R K**, Wang C P, Fu Q, et al.  
    [Detection model and performance evaluation for infrared search and tracking systems](https://doi.org/10.1364/AO.469807)  
