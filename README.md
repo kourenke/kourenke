@@ -8,7 +8,7 @@
 - Mobile deployment for infrared weak targets  
 ![fig1](./生成融合生态系统.png)
 
-- The first generation web version full stack visualization system has been open sourced.
+- The first generation web version full stack visualization system has been open sourced, and you can access it https://github.com/kourenke/LW-IRSTNet/tree/main/IRSTD_streamlit Download the source code.
 
 
 - We are currently dedicated to the research and development of more functional visualization systems.
