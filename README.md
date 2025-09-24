@@ -7,10 +7,6 @@
 - Evaluation metrics & inference optimization  
 - Mobile deployment for infrared weak targets  
 ![fig1](./生成融合生态系统.png)
-![fig2](./系统设计框图.png)
-![fig4](./Image_video_generation.png)
-![fig5](./inference.png)
-![fig6](./deploy.png)
 ---
 
 ## 🔥 Publications 
