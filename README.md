@@ -36,14 +36,12 @@
    [单帧红外图像多尺度小目标检测技术综述](https://doi.org/10.11834/jig.230788)  
    *中国图象图形学报*, 2024, 29(09):2625-2649
 
-数据类
+算法类
 
 3. **Kou R K**, Wang C P, Fu Q, et al.  
    [MCGC: Multi-scale chain growth clustering for infrared targets under single-point supervision](https://doi.org/10.1109/TGRS.2024.3390756)  
    *IEEE TGRS*, 2024, 62: 5620412  
    `WOS:001214652600004`
-
-算法类
 
 4. **Kou R K**, Wang C P, Fu Q, et al.  
    [Infrared small target detection based on improved density peak search and human visual mechanism](https://doi.org/10.1109/JSTARS.2022.3193884)  
@@ -59,6 +57,10 @@
    [Infrared small target tracking via segmentation network and multistrategy fusion](https://doi.org/10.1109/TGRS.2023.3286836)  
    *IEEE TGRS*, 2023, 61: 5612912  
    `WOS:001022708100018`
+
+数据集类
+
+
 
 目标红外辐射特性分析类
 
