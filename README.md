@@ -60,11 +60,11 @@
 
 数据集类
 
-
+7. https://github.com/kourenke/IRTiny-BD-10K-Datasets
 
 目标红外辐射特性分析类
 
-7. **Kou R K**, Wang C P, Fu Q, et al.  
+8. **Kou R K**, Wang C P, Fu Q, et al.  
    [Detection model and performance evaluation for infrared search and tracking systems](https://doi.org/10.1364/AO.469807)  
    *Applied Optics*, 2023, 62(2): 398-410  
    `WOS:001057810600017`
