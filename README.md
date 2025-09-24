@@ -1,11 +1,14 @@
 # Hi, I'm Renke Kou 👋
 
-🌱 **Currently**: Postdoctoral Researcher  
+🌱 **Currently**: Postdoctoral Researcher 
+
 🔭 **Research Focus**: Building an infrared small target ecosystem, including:  
+
 - Image/video generation & annotation  
 - Multi-task training & knowledge distillation  
 - Evaluation metrics & inference optimization  
-- Mobile deployment for infrared weak targets  
+- Mobile deployment for infrared weak targets
+-  
 ![fig1](./生成融合生态系统.png)
 
 - The first generation web version full stack visualization system has been open sourced, and you can access it https://github.com/kourenke/LW-IRSTNet/tree/main/IRSTD_streamlit Download the source code.
