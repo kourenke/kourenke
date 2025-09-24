@@ -6,7 +6,7 @@
 - Multi-task training & knowledge distillation  
 - Evaluation metrics & inference optimization  
 - Mobile deployment for infrared weak targets  
-![fig1](./生成融合生态系统 LOGO.png)
+![fig1](./生成融合生态系统.png)
 ![fig2](./系统设计框图.png)
 ---
 
