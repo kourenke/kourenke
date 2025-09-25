@@ -39,12 +39,13 @@
 ### - Algorithm related papers (算法类)
 
 - Model driven algorithms
+  
 3. **Kou R K**, Wang C P, Fu Q, et al.  
    [Infrared small target detection based on improved density peak search and human visual mechanism](https://doi.org/10.1109/JSTARS.2022.3193884)  
    *IEEE J-STARS*, 2022, 15: 6144-6157  
    `WOS:000838675100003`
 
-4. Xi Y Q, Liu D Y, **Kou R K**, et al.
+4. Xi Y Q, Liu D Y, **Kou R K**, et al.  
    [Infrared Small Target Detection Based on Holistic Interframe Interaction and Spatiotemporal Local Contrast Method](https://doi.org/10.1109/LGRS.2025.3600996)
    *IEEE GRSL*, 2025.
 
@@ -55,7 +56,7 @@
    *IEEE TGRS*, 2023, 61: 5621313  
    `ESI Highly Cited` `WOS:001119655900007`
 
-6. Xi Y Q, Liu D Y, **Kou R K**, et al.
+6. Xi Y Q, Liu D Y, **Kou R K**, et al.  
    [Gradient Enhanced Feature Pyramid Network for Infrared Small Target Detection](https://doi.org/10.1109/LGRS.2025.3546569)
    *IEEE GRSL*, 2025.
 
@@ -70,7 +71,7 @@
    *IEEE TGRS*, 2024, 62: 5620412  
    `WOS:001214652600004`
 
-9. Yuan S, Qin H L, **Kou R K**, et al.
+9. Yuan S, Qin H L, **Kou R K**, et al.  
    [Beyond full labels: Energy-double-guided single-point prompt for infrared small target label generation](https://doi.org/10.1109/JSTARS.2025.3545014)
    *IEEE J-STARS*, 2025.
 
@@ -81,7 +82,7 @@
    *IEEE TGRS*, 2023, 61: 5612912  
    `WOS:001022708100018`
 
-11.Song J, Mei W, Xu Y, Fu Q, **Kou R K**, et al. 
+11.Song J, Mei W, Xu Y, Fu Q, **Kou R K**, et al.  
    [Motion Estimation for Multi-Object Tracking using KalmanNet with Semantic-Independent Encoding](https://arxiv.org/pdf/2509.11323)
    *arxiv preprint*, arxiv:2509.11323, 2025.
 
@@ -100,7 +101,7 @@
    *Applied Optics*, 2023, 62(2): 398-410  
    `WOS:001057810600017`
 
-15.**Kou R K**, Wang H Y, Zhao Z H, et al. 
+15.**Kou R K**, Wang H Y, Zhao Z H, et al.  
    [Optimum selection of detection point and threshold noise ratio of airborne infrared search and track systems](https://doi.org/10.1364/AO.56.005268) 
    *Applied Optics*, 2017, 56(18): 5268-5273.
    
