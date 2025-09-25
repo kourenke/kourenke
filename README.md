@@ -1,4 +1,4 @@
-# Hi, I'm Renke Kou 👋
+ # Hi, I'm Renke Kou 👋
 
 🌱 **Currently**: Postdoctoral Researcher 
 
@@ -82,7 +82,7 @@
    *IEEE TGRS*, 2023, 61: 5612912  
    `WOS:001022708100018`
 
-11.Song J, Mei W, Xu Y, Fu Q, **Kou R K**, et al.  
+11. Song J, Mei W, Xu Y, Fu Q, **Kou R K**, et al.  
    [Motion Estimation for Multi-Object Tracking using KalmanNet with Semantic-Independent Encoding](https://arxiv.org/pdf/2509.11323)  
    *arxiv preprint*, arxiv:2509.11323, 2025.
 
@@ -101,7 +101,7 @@
    *Applied Optics*, 2023, 62(2): 398-410  
    `WOS:001057810600017`
 
-15.**Kou R K**, Wang H Y, Zhao Z H, et al.  
+15. **Kou R K**, Wang H Y, Zhao Z H, et al.  
    [Optimum selection of detection point and threshold noise ratio of airborne infrared search and track systems](https://doi.org/10.1364/AO.56.005268)  
    *Applied Optics*, 2017, 56(18): 5268-5273.
    
