@@ -23,7 +23,7 @@
 ---
 
 ## 🔥 Publications 
-### Journal Papers
+### 📋 Journal Papers
 
 ### - Review papers (综述类)
 
