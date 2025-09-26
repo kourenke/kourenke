@@ -108,13 +108,26 @@
 ---
 
 ## 👯 Academic Activities
+
+### 🏆 Awards & Honors
+
+​​杰出报告奖 (Outstanding Presentation Award)​​ - 第三届中国图象图形学报研究生论坛 - 汇报题目: 复杂环境下红外小目标智能分割技术研究(2023)
+https://www.bilibili.com/video/BV1tb4y1u719/?spm_id_from=333.337.search-card.all.click
+
 ### Journal Reviewer
-- IEEE Transactions on Geoscience and Remote Sensing
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+- IEEE transactions on circuits and systems for video technology
+- IEEE Transactions on Geoscience and Remote Sensing
 - IEEE Signal Processing Letters
-- Computer Science Review
-- Remote Sensing
+- Journal of visual communication and image representation
 - Engineering Applications of Artificial Intelligence
+- Computers & electrical engineering
+- Image and vision computing
+- Computer Science Review
+- Knowledge-based systems
+- Pattern recognition
+- Remote Sensing
+- Array
 - 中国图象图形学报
 
 ---
