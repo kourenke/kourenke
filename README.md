@@ -30,7 +30,7 @@
 1. **Kou R K**, Wang C P, Peng Z M, et al.  
    [Infrared small target segmentation networks: A survey](https://doi.org/10.1016/j.patcog.2023.109788)  
    *Pattern Recognition*, 2023, 143: 109788  
-   `ESI Highly Cited` `WOS:00103718620000`
+   `ESI Highly Cited👑` `WOS:00103718620000`
 
 2. 寇人可, 王春平, 罗迎, 等.  
    [单帧红外图像多尺度小目标检测技术综述](https://doi.org/10.11834/jig.230788)  
@@ -54,7 +54,7 @@
 5. **Kou R K**, Wang C P, Yu Y, et al.  
    [LW-IRSTNet: Lightweight infrared small target segmentation network](https://doi.org/10.1109/TGRS.2023.3314586)  
    *IEEE TGRS*, 2023, 61: 5621313  
-   `ESI Highly Cited` `WOS:001119655900007`
+   `ESI Highly Cited👑` `WOS:001119655900007`
 
 6. Xi Y Q, Liu D Y, **Kou R K**, et al.  
    [Gradient Enhanced Feature Pyramid Network for Infrared Small Target Detection](https://doi.org/10.1109/LGRS.2025.3546569)  
