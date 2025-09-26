@@ -114,7 +114,12 @@
 ​​杰出报告奖 (Outstanding Presentation Award)​​ - 第三届中国图象图形学报研究生论坛 - 汇报题目: 复杂环境下红外小目标智能分割技术研究(2023)
 https://www.bilibili.com/video/BV1tb4y1u719/?spm_id_from=333.337.search-card.all.click
 
-### Journal Reviewer
+### 📘 Editorial Board Member
+
+西安邮电大学学报 - 首届青年编委
+
+### 📝 Journal Reviewer
+
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 - IEEE transactions on circuits and systems for video technology
 - IEEE Transactions on Geoscience and Remote Sensing
