@@ -112,6 +112,7 @@
 ### 🏆 Awards & Honors
 
 ​​杰出报告奖 (Outstanding Presentation Award)​​ - 2025年中国图象图形学报研究生论坛 - 汇报题目: 远距红外小目标物理与数据融合驱动的多任务可视化生态体系构建(2025)
+https://www.bilibili.com/video/BV1bdxrzjEpb/?spm_id_from=333.1387.collection.video_card.click
 
 杰出报告奖 (Outstanding Presentation Award)​​ - 2023年中国图象图形学报研究生论坛 - 汇报题目: 复杂环境下红外小目标智能分割技术研究(2023)
 https://www.bilibili.com/video/BV1tb4y1u719/?spm_id_from=333.337.search-card.all.click
