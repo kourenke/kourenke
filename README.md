@@ -128,18 +128,24 @@ https://www.bilibili.com/video/BV1tb4y1u719/?spm_id_from=333.337.search-card.all
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 - IEEE transactions on circuits and systems for video technology
 - IEEE Transactions on Geoscience and Remote Sensing
+- IEEE Geoscience and Remote Sensing Letters
 - IEEE Signal Processing Letters
+- ISPRS Journal of Photogrammetry and Remote Sensing
+- Karbala International Journal of Modern Science
 - Journal of visual communication and image representation
 - Engineering Applications of Artificial Intelligence
 - Computers & electrical engineering
+- Expert Systems With Applications
+- Optics and Laser Technology
 - Image and vision computing
 - Computer Science Review
 - Knowledge-based systems
 - Pattern recognition
 - Remote Sensing
+- Applied Optics
 - Array
 - 中国图象图形学报
-
+- 西安邮电大学学报
 ---
 
 [![kourenke's GitHub stats](https://github-readme-stats.vercel.app/api?username=kourenke)](https://github.com/kourenke/github-readme-stats)
